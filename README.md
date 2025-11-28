@@ -1,5 +1,5 @@
 
-# Project AI Agent
+# Healthcare Report and Prescription Analyser using AI Agents
 
 **Overview:**
 - **Project name:** Project_AI_Agent
