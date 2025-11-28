@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Doctor Agent",
+    "points": [
+      "Ask health-related questions",
+      "Understand symptoms",
+      "Learn about treatments"
+    ]
+  },
+  {
+    "title": "Report Reader",
+    "points": [
+      "Upload lab reports",
+      "Get easy explanations",
+      "Know what values mean"
+    ]
+  },
+  {
+    "title": "Prescription Helper",
+    "points": [
+      "Understand medicines",
+      "Know usage instructions",
+      "Get safety precautions"
+    ]
+  }
+]

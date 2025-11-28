@@ -1,0 +1,8 @@
+bg : #18181B
+card: #222222
+text: #EAEFEF
+mainText: #F9F6F3
+
+#B8CFCE
+Deep Black/Dark Gray (bg-zinc-900 equivalent): #18181B
+Near Black for sidebar/input bar: #0F0F11
